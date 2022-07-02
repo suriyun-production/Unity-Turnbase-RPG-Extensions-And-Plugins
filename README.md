@@ -1,4 +1,4 @@
-List of extensions and plugins for Turnbase RPG projects
+List of extensions and plugins for Turnbase RPG project
 
 ### PHP service
 * [rpg-web-service-client](https://github.com/insthync/rpg-web-service-client) - The client side implementation for https://github.com/insthync/tbrpg-php-service
